@@ -12,3 +12,7 @@ Input:
 Output
 
    simple interest = p*t*r
+
+<a href="https://github.com/BrandoJustice/github-final-project/blob/main/LICENSE">View License Page</a>
+
+<a href="https://github.com/BrandoJustice/github-final-project/blob/main/CODE_OF_CONDUCT.md">View CODE OF CONDUCT Page</a>
