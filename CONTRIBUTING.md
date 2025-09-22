@@ -30,3 +30,7 @@ Step 6. Submit a Pull Request (PR) to the `main` branch
 Thank you for contributing! :)
 
 <a href="https://github.com/BrandoJustice/github-final-project/blob/main/README.md">View README File</a>
+
+<a href="https://github.com/BrandoJustice/github-final-project/blob/main/LICENSE">View License Page</a>
+
+<a href="https://github.com/BrandoJustice/github-final-project/blob/main/CODE_OF_CONDUCT.md">View CODE OF CONDUCT Page</a>
